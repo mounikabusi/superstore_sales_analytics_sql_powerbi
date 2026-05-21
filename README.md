@@ -25,19 +25,6 @@ The dataset contains retail sales transaction data including:
 
 # Business Problem
 
-Retail businesses generate massive amounts of transactional data every day. However, raw data alone does not provide meaningful business insights unless it is properly analyzed.
-
-The company wants to understand:
-
-- Which product categories generate the highest sales and profits
-- Which regions perform best
-- Which customers contribute the most revenue
-- Which sub-categories are causing losses
-- How sales trends change over time
-- How discounts impact profitability
-
-Without proper analysis, businesses may struggle to make effective data-driven decisions regarding product strategy, customer targeting, and profitability optimization.
-
 ---
 # Questions I Wanted To Answer From the Dataset
 
