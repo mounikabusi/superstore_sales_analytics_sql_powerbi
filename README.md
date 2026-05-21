@@ -1,4 +1,5 @@
-<img width="1114" height="670" alt="image" src="https://github.com/user-attachments/assets/20c1c5af-b677-46f2-bbe0-d8b01a2e27ea" />
+<img width="1293" height="720" alt="Screenshot 2026-05-21 155206" src="https://github.com/user-attachments/assets/ddc0373b-71ae-4d38-8ebe-da8da3bb0d2c" />
+
 # Project Overview
 
 This project focuses on analyzing retail sales data using SQL to uncover meaningful business insights related to customer behavior, profitability, product performance, and sales trends.
