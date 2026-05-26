@@ -182,3 +182,12 @@ Result:
 
 <img width="330" height="403" alt="image" src="https://github.com/user-attachments/assets/963b6c60-ec9b-4c4a-b382-43269d797fbb" />
 
+# Key insights
+- Consumer segment contributed the highest overall sales across all customer segments.
+- Technology category emerged as the top revenue-generating product category.
+- Sales performance showed consistent growth over the analyzed years.
+- The West region recorded the strongest sales performance among all regions.
+- Phones and Chairs were among the highest-performing subcategories in terms of sales.
+
+  # Author
+  Mounika Busi
