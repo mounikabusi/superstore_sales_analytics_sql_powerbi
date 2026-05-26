@@ -179,5 +179,6 @@ FROM superstore_sales
 GROUP BY sub_category;
 ```
 Result:
+
 <img width="330" height="403" alt="image" src="https://github.com/user-attachments/assets/963b6c60-ec9b-4c4a-b382-43269d797fbb" />
 
